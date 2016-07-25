@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Policy from '../../react-policies/src'
+import Policy from 'react-policies'
 
 const RouterPolicy = (...configs) => {
   const config = configs
