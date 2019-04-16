@@ -1,4 +1,4 @@
-# React Router Policies [![Build Status](https://travis-ci.org/lucasconstantino/react-router-policies.svg?branch=master)](https://travis-ci.org/lucasconstantino/react-router-policies)
+# React Router Policies [![Build Status](https://travis-ci.org/lucasconstantino/react-router-policies.svg?branch=master)](https://travis-ci.org/lucasconstantino/react-router-policies) [![Greenkeeper badge](https://badges.greenkeeper.io/lucasconstantino/react-router-policies.svg)](https://greenkeeper.io/)
 
 > Decoupled policy system for React Router components
 
